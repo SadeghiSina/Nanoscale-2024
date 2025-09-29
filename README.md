@@ -1,5 +1,5 @@
 # Nanoscale-2024:
-## Here is the Closed-Loop Autonomous Code; the autonomous code contains the real-time data processing part within the second cell.
+## Here is the custom-implemented Closed-Loop Autonomous Code; the autonomous code contains the real-time data processing part within the second cell.
 ## While running the code, it asks for the directory path containing the .csv files; raw absorption and PL spectra as well as the light reference, wavelengths and dark references associated with the absorption and PL spectroscopy, and FR.
 ## User only needs to copy and paste the directory path in the box provided by the code and press enter.
 ### FR is the file that includes experimental conditions; each row represents one condition as follows:
