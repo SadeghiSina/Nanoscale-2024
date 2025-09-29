@@ -1,5 +1,10 @@
 # Nanoscale-2024:
 ## Here is the custom-implemented Closed-Loop Autonomous Code; the autonomous code contains the real-time data processing part within the second cell.
+## The developed Bayesian optimization framework was utilized in the the following papers:
+### paper 1 (published in Nanoscale):
+#### https://pubs.rsc.org/en/content/articlehtml/2024/nr/d3nr05034c
+### paper 2 (submitted to Advanced Energy Materials):
+#### https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aenm.202302303
 ## While running the code, it asks for the directory path containing the .csv files; raw absorption and PL spectra as well as the light reference, wavelengths and dark references associated with the absorption and PL spectroscopy, and FR.
 ## User only needs to copy and paste the directory path in the box provided by the code and press enter.
 ### FR is the file that includes experimental conditions; each row represents one condition as follows:
